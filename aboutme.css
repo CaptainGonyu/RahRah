@@ -1,0 +1,8 @@
+body {
+  background-color: #8ba6d6;
+}
+
+div {
+  display: grid;
+  place-items: center;
+}
